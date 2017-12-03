@@ -1,5 +1,4 @@
 <h1 align="center">
-  <br />
   Codespell
 </h1>
 
